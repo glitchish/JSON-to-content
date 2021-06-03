@@ -30,6 +30,6 @@ try {
 ```
 _(its messy, i know)_
 
-[originally made at w3school's html editor because y not](https://www.w3schools.com/code/tryit.asp?filename=GR6M4Q5EPKKT)
+[originally made at w3school's html editor because y not](https://www.w3schools.com/code/tryit.asp?filename=GR6ML83VFZRG)
 
 its sup~~p~~er basic
